@@ -40,7 +40,7 @@ Where *order* is the order of the locations in the solution and *total_distance*
 in the total distance traveled.  For simplicity, used the cartesian distances.
 
 ## Running
-In the top directory run the _example.sh_ script. This will call docker-compose to build/download images and run the test.
+In the top directory run the _example.sh_ script. This will call docker-compose to build/download images and run the tests.
 
 To run the tests, you need pytest. Run `pytest tests` in the top directory.
 
