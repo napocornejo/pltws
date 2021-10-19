@@ -1,0 +1,8 @@
+pip
+redis==3.5.3
+requests==2.22.0
+rq==1.10.0
+ortools==9.1.9490
+flask==2.0.2
+pytest==6.2.5
+uWSGI==2.0.20

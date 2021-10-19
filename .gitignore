@@ -1,0 +1,5 @@
+.idea/
+tests/.pytest_cache
+env/
+pltenv/
+__pycache__/
